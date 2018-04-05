@@ -3,7 +3,7 @@
 
 ## 目录：
 
-* [Singleton](ch-01)
+* [Singleton](singleton)
 * [Factory](ch-02)
 * [第三章 解構賦值 Destructuring assignment](chapter-03)
 * [第四章 String - Peng Jie](chapter-04)
