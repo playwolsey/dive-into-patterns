@@ -1,1 +1,6 @@
 ## Singleton
+
+```javascript
+function()
+
+```
